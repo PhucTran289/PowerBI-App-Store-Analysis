@@ -73,7 +73,7 @@ Global filters (Primary Genre, Price Category, Age Group) and a date range slice
 .
 ├── Capstone_Project_1_Tran_Hoang_Phuc.pbix   # Power BI report
 ├── Capstone_Project_1_Tran_Hoang_Phuc.pdf    # Exported dashboard (PDF)
-├── images/                                   # Dashboard screenshots
+├── AppStore_Analysis.pdf                     # Presentation slides
 └── README.md
 ```
 
