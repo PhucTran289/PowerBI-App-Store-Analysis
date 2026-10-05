@@ -3,11 +3,9 @@
 An interactive Power BI dashboard for analyzing App Store performance, pricing strategies, app size profiles, localization, and user engagement.
 
 **Author:** Tran Hoang Phuc  
-**Project type:** Capstone Project  
 **Tool:** Microsoft Power BI  
 **Data source:** App Store Market Data (apps released between 07/2008 and 10/2019)  
 
----
 
 ## Dashboard Preview
 
@@ -29,7 +27,6 @@ This dashboard explores the App Store market from three angles:
 
 Global filters (Primary Genre, Price Category, Age Group) and a date range slicer let users drill into any segment.
 
----
 
 ## Dashboard Pages
 
@@ -55,8 +52,6 @@ Global filters (Primary Genre, Price Category, Age Group) and a date range slice
 - Emerging Opportunity Languages (rating vs market average)
 - Localization Trend by Release Year
 
----
-
 ## Key Insights
 
 - The market is dominated by **free apps (83.7%)**, while paid apps account for 16.3%.
@@ -65,7 +60,6 @@ Global filters (Primary Genre, Price Category, Age Group) and a date range slice
 - **English** is available in 99.3% of apps; **Chinese** is the most common additional language.
 - Most apps (12,512) support only a single language, which leaves room for localization opportunities.
 
----
 
 ## Repository Structure
 
@@ -85,7 +79,6 @@ Global filters (Primary Genre, Price Category, Age Group) and a date range slice
 2. Open `Capstone_Project_1_Tran_Hoang_Phuc.pbix` with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
 3. Use the page navigation buttons and slicers to explore the data.
 
----
 
 ## Skills Demonstrated
 
@@ -94,7 +87,6 @@ Global filters (Primary Genre, Price Category, Age Group) and a date range slice
 - KPI cards, decomposition tree, scatter plot, matrix, and trend charts
 - Business storytelling with data
 
----
 
 ## Contact
 
