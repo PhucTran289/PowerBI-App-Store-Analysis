@@ -13,15 +13,16 @@ An interactive Power BI dashboard for analyzing App Store performance, pricing s
 
 | Home | Overview |
 |------|----------|
-| ![Home](images/home.png) | ![Overview](images/overview.png) |
+|<img width="1012" height="580" alt="Screenshot 2026-10-05 223232" src="https://github.com/user-attachments/assets/3ba88a2f-b52b-45eb-b8b1-e7b0826b2c50" />
+| <img width="1012" height="578" alt="Screenshot 2026-10-05 223240" src="https://github.com/user-attachments/assets/0ce387ec-e913-41aa-a44f-6f977c3fe49f" />
+ |
 
 | Pricing & Tech | Global |
 |----------------|--------|
-| ![Pricing & Tech](images/pricing-tech.png) | ![Global](images/global.png) |
+| <img width="1013" height="578" alt="Screenshot 2026-10-05 223249" src="https://github.com/user-attachments/assets/10fffadd-87d4-471b-8242-ae46af7b636b" />
+ | <img width="1012" height="578" alt="Screenshot 2026-10-05 223258" src="https://github.com/user-attachments/assets/c11e4758-6ad3-43be-9be9-a01d1b62b709" />
+ |
 
-> Tip: export each page from Power BI Desktop (File > Export > PDF, then convert to PNG) and place the images in an `images/` folder.
-
----
 
 ## Project Overview
 
