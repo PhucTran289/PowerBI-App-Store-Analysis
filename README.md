@@ -2,10 +2,10 @@
 
 An interactive Power BI dashboard for analyzing App Store performance, pricing strategies, app size profiles, localization, and user engagement.
 
-**Author:** Tran Hoang Phuc
-**Project type:** Capstone Project
-**Tool:** Microsoft Power BI
-**Data source:** App Store Market Data (apps released between 07/2008 and 10/2019)
+**Author:** Tran Hoang Phuc  
+**Project type:** Capstone Project  
+**Tool:** Microsoft Power BI  
+**Data source:** App Store Market Data (apps released between 07/2008 and 10/2019)  
 
 ---
 
