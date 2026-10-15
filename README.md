@@ -65,9 +65,9 @@ Global filters (Primary Genre, Price Category, Age Group) and a date range slice
 
 ```
 .
-├── Capstone_Project_1_Tran_Hoang_Phuc.pbix   # Power BI report
-├── Capstone_Project_1_Tran_Hoang_Phuc.pdf    # Exported dashboard (PDF)
-├── AppStore_Analysis.pdf                     # Presentation slides
+├── App_Store_Project_Tran_Hoang_Phuc.pbix   # Power BI report
+├── App_Store_Project_Tran_Hoang_Phuc.pdf    # Exported dashboard (PDF)
+├── AppStore_Analysis.pdf                    # Presentation slides
 └── README.md
 ```
 
@@ -76,7 +76,7 @@ Global filters (Primary Genre, Price Category, Age Group) and a date range slice
 ## How to Use
 
 1. Download or clone this repository.
-2. Open `Capstone_Project_1_Tran_Hoang_Phuc.pbix` with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
+2. Open `App_Store_Project_Tran_Hoang_Phuc.pbix` with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
 3. Use the page navigation buttons and slicers to explore the data.
 
 
